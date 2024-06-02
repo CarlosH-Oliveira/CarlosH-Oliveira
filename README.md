@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello world, my name is Carlos Henrique, I'm a junior developer and I currently work at the company VUP Consultoria de Software.<br>I'm looking forward to creating new projects and using my skills to make people's lives better.<br>I am currently looking for project experience and would like help developing my career.
+Hello world, my name is Carlos Henrique, I'm a junior developer and I currently work at the company VUP - Gestão de Software e Projetos.<br>I'm looking forward to creating new projects and using my skills to make people's lives better.<br>I am currently looking for project experience and would like help developing my career.
 
 
 ## 🌐 Socials:
